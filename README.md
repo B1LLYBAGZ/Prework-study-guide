@@ -15,7 +15,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-in your URL enter "https://b1llybagz.github.io/Prework-study-guide/"then acesse the ChromeDev by right clicking anywhere on the screen
+in your URL enter "https://b1llybagz.github.io/Prework-study-guide/" then acesse the ChromeDev by right clicking anywhere on the screen
 
 ## Usage
 
